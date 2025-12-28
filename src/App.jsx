@@ -3,8 +3,8 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  useLocation,
   Navigate,
+  useLocation,
 } from "react-router-dom";
 import { Layout } from "antd";
 
